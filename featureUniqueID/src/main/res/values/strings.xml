@@ -1,0 +1,8 @@
+<resources>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="id1">ID1:</string>
+    <string name="id2">ID2:</string>
+    <string name="press_any_button">Press Any Button</string>
+</resources>
